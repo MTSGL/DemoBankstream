@@ -17,8 +17,9 @@ public class Class2 {
 	 * @return does not return anything
 	 * @param p 
 	 */
-	public static void Class2Method(int p){
-		
+	public void Class2Method(int p){
+	
+		System.out.println("p is " + p);
 	}
 	
 }
